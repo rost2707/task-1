@@ -1,0 +1,25 @@
+body{
+	background-image:url('image/книга.png');
+     
+}	 
+
+ol{
+	list-style-image: url('image/ lego-small-01.png');
+}
+body{
+	/*color:#292933*/
+	color:#404d41
+}
+h1{
+	color:#bf362c
+	text-shadow:1px 1px 2px #a84842
+}
+header section{
+	background-color:#b8261c;
+
+}
+
+h1{
+	color:#404d41
+}
+
